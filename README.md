@@ -1,4 +1,4 @@
-c--
+c++
 ===
 
 c++ Bjarne Stroustrup
